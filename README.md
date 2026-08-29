@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Gary 👋
 
 I'm a Computer Science graduate from the University of Southern California (USC)
 with an interest in software engineering, AI, computer vision, and building
