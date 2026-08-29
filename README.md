@@ -9,7 +9,8 @@ practical applications.
 - **Programming:** C++, Java, Python, JavaScript, C#, SQL
 - **Web:** HTML/CSS, Node.js, Express, Flask, Angular, React
 - **Databases:** PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Unity, Google Cloud
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, Git
+- **Other Technologies:** Unity, OpenCV, Librosa
 
 ## 🚀 Projects
 
