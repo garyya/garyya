@@ -37,7 +37,7 @@ Web application supporting course enrollment and assignment workflows.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](linkedin.com/in/gary-yang-652938220/)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/gary-yang-652938220)
 - GitHub: [Your GitHub](https://github.com/garyya)
 
 <!--
